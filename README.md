@@ -3,3 +3,4 @@
 2. Simple Neural Network
 3. Convolutional Neural Network with MNIST Dataset
 4. Trigram Neural Net Model based on Andrej Karpathy's Makemore Series Assignment
+5. Character Level Language Models
